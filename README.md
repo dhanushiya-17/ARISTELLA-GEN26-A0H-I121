@@ -1,7 +1,7 @@
 # Genesis 2026: Ideathon
 ## GEN26-A0H-I121
 ### Team Details
-#### **Team Name** <<ARISTELLA>> <br/>
+#### **Team Name** ARISTELLA <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   | Hostel|
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|
